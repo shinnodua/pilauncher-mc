@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <title>China</title>
+  <defs>
+    <clipPath id="zh-clip">
+      <rect width="640" height="480" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#zh-clip)">
+    <rect width="640" height="480" fill="#ee1c25"/>
+    <polygon fill="#ff0" points="107,53 118,91 157,91 125,114 137,152 107,128 76,152 88,114 56,91 95,91"/>
+    <polygon fill="#ff0" transform="translate(192,48) rotate(23) scale(0.35)" points="0,-35 11,-11 35,-11 16,3 23,26 0,11 -23,26 -16,3 -35,-11 -11,-11"/>
+    <polygon fill="#ff0" transform="translate(235,96) rotate(45) scale(0.35)" points="0,-35 11,-11 35,-11 16,3 23,26 0,11 -23,26 -16,3 -35,-11 -11,-11"/>
+    <polygon fill="#ff0" transform="translate(235,160) rotate(-10) scale(0.35)" points="0,-35 11,-11 35,-11 16,3 23,26 0,11 -23,26 -16,3 -35,-11 -11,-11"/>
+    <polygon fill="#ff0" transform="translate(192,208) rotate(15) scale(0.35)" points="0,-35 11,-11 35,-11 16,3 23,26 0,11 -23,26 -16,3 -35,-11 -11,-11"/>
+  </g>
+</svg>

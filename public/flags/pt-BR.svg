@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <title>Brazil</title>
+  <defs>
+    <clipPath id="br-clip">
+      <rect width="640" height="480" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#br-clip)">
+    <rect width="640" height="480" fill="#009b3a"/>
+    <polygon fill="#fedf01" points="320,40 580,240 320,440 60,240"/>
+    <circle cx="320" cy="240" r="110" fill="#002776"/>
+    <path fill="#fff" d="M213,252 C240,225 320,205 425,232 C390,218 315,215 220,265 Z"/>
+  </g>
+</svg>

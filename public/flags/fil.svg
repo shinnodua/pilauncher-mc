@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <title>Philippines</title>
+  <defs>
+    <clipPath id="ph-clip">
+      <rect width="640" height="480" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#ph-clip)">
+    <rect width="640" height="240" fill="#0038a8"/>
+    <rect y="240" width="640" height="240" fill="#ce1126"/>
+    <polygon fill="#fff" points="0,0 360,240 0,480"/>
+    <circle cx="115" cy="240" r="38" fill="#fcd116"/>
+    <path stroke="#fcd116" stroke-width="8" stroke-linecap="round" d="M115,182 L115,198 M115,282 L115,298 M57,240 L73,240 M157,240 L173,240 M74,199 L85,210 M145,270 L156,281 M74,281 L85,270 M145,210 L156,199"/>
+    <polygon fill="#fcd116" points="40,50 43,59 52,59 45,64 47,73 40,68 33,73 35,64 28,59 37,59"/>
+    <polygon fill="#fcd116" points="40,410 43,419 52,419 45,424 47,433 40,428 33,433 35,424 28,419 37,419"/>
+    <polygon fill="#fcd116" points="290,230 293,239 302,239 295,244 297,253 290,248 283,253 285,244 278,239 287,239"/>
+  </g>
+</svg>
